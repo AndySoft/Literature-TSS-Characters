@@ -2,7 +2,7 @@
 # The To Do List
 
 * we need to specify how deeply we'll cover each character
-	* should we include spoilers? If so, which ones? Categorise a spoiler, decide which included. 
+	* should we include spoilers? If so, which ones? Categorise a spoiler, decide which to include.
 	* decide wether we want to work spoilless or with spoilers. Spoilless= describing a personality and attitudes, without mentioning story.
 	* personality traits
 	* look
