@@ -7,6 +7,7 @@
 	* personality traits
 	* look
 	* maybe what they did in the story? - spoiler
+	* relationship and family-relation map
 * definitely include:
 	* Mariam
 	* Laila
