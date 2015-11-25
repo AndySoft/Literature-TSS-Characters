@@ -15,3 +15,4 @@
 	* Children (Aziza and Zalmai)
 	* Tariq
 	* Parents (Jalil, T-parents, Faria and her husband) /note: parents can be mentioned as an influential psychological force in the development of main characters, Laila and Mariam
+* try to workout the contrasts between COURAGE X COWARDICE 
