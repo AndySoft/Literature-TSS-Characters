@@ -4,9 +4,9 @@
 * we need to specify how deeply we'll cover each character
 	- [x] should we include spoilers? If so, which ones? Categorise a spoiler, decide which to include.
 	- [x] decide wether we want to work spoilless or with spoilers. Spoilless= describing a personality and attitudes, without mentioning story.
-	- [ ] personality traits
 	- [ ] look
-	- [ ] maybe what they did in the story? - spoiler
+	- [ ] what they did in the story
+	- [ ] personality traits
 	- [ ] relationship and family-relation map
 * definitely include:
 	- [ ] Mariam
