@@ -10,7 +10,7 @@
 	- [ ] personality traits
 	- [ ] relationship and family-relation map
 * definitely include:
-	- [ ] Mariam
+	- [x] Mariam
 	- [ ] Laila
 	- [ ] Rasheed
 	- [ ] Children (Aziza and Zalmai)
