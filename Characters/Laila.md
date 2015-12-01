@@ -7,7 +7,7 @@ In a great contrast to Mariam, Laila is a beauty. She has blonde hair, green eye
 
 > Chapter 16 Page 108
 
-She is viewed as a kind of trophy among boys, as we can see from Khadim's behaviour to her (chapter 17, starting with page 116).
+Since Laila's young age, she was attractive and desired amongs the boys.
 
 ### Personality, character, background and developement
 
