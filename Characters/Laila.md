@@ -3,7 +3,7 @@
 ### Look
 
 In a great contrast to Mariam, Laila is a beauty. She has blonde hair, green eyes, high cheekbones and dimpled cheeks.
-> *She was* a pari*, a stunner*, Mammy said*. Her beauty was the talk of the valley. It skipped two generations of women in our family, but it sure didn't bypass you, Laila*.
+> *She was* a pari*, a stunner,* Mammy said*. Her beauty was the talk of the valley. It skipped two generations of women in our family, but it sure didn't bypass you, Laila*.
 
 > Chapter 16 Page 108
 
